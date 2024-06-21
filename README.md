@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Poula Ayman</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=panda0-hub&label=Profile%20views&color=0e75b6&style=flat" alt="panda0-hub" /> </p>
 
