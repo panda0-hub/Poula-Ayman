@@ -44,6 +44,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/panda0-hub/panda0-hub/output/snake.svg" alt="Snake animation" />
-
 ###
